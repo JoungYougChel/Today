@@ -44,14 +44,30 @@
         android:theme="@style/Theme.Today"
         android:largeHeap="true"
         android:usesCleartextTraffic="true">
+
         <activity
-            android:name=".MainActivity"
+            android:name=".LoadingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:windowSoftInputMode="stateHidden|adjustResize|adjustPan"
+            android:launchMode="singleTask">
+        </activity>
+        <activity
+            android:name=".ui.foodrecipe.FoodRecipeDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:launchMode="singleTask">
         </activity>
     </application>
 

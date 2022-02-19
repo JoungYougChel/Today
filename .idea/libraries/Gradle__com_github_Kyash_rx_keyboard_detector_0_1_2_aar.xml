@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Kyash:rx-keyboard-detector:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ec4bb0b9f5be9316bd909dc9f373106d/transformed/jetified-rx-keyboard-detector-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ec4bb0b9f5be9316bd909dc9f373106d/transformed/jetified-rx-keyboard-detector-0.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ec4bb0b9f5be9316bd909dc9f373106d/transformed/jetified-rx-keyboard-detector-0.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Kyash/rx-keyboard-detector/0.1.2/c03f538d1e8b9146dc114ac657334aa69257c46e/rx-keyboard-detector-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

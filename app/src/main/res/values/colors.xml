@@ -7,4 +7,43 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorProgress">#000000</color>
+    <color name="colorHint">#71757e</color>
+    <color name="colorSplash">#FF5B4F</color>
+    <color name="colorNavChecked">#000000</color>
+    <color name="colorNavUnChecked">#A2A7AD</color>
+    <color name="colorChecked">#000000</color>
+    <color name="colorUnChecked">#9e9e9e</color>
+    <color name="colorLightishBlue">#3f60fb</color><!--이메일선택-->
+    <color name="colorkakao">#fee500</color>
+    <color name="colorapple">#000000</color>
+
+    <color name="Main">#000000</color>
+    <color name="Sub">#000000</color>
+    <color name="Error">#FA4516</color>
+    <color name="Warning">#FD6647</color>
+    <color name="BaseM3">#FFFFFF</color>
+    <color name="BaseM2">#a6a8ad</color>
+    <color name="BaseM1">#626466</color>
+    <color name="Base0">#1d1d1f</color>
+    <color name="BaseP1">#121212</color>
+    <color name="BaseP2">#000000</color>
+    <color name="Disabled">#CCCCCC</color>
+    <color name="TextField">#FFFFFF</color>
+    <color name="Bg">#FFFFFF</color>
+    <color name="Line">#EEEEEE</color>
+    <color name="DarkGray">#3a3c42</color>
+    <color name="LightGray">#f1f2f4</color>
+
+    <color name="Warning70">#B3fd6647</color>
+    <color name="Base70">#B31d1d1f</color>
+    <color name="Main70">#B3000000</color>
+    <color name="Main7">#128fc320</color>
+    <color name="colorBlack40">#66000000</color>
+    <color name="colorBlack10">#1A000000</color>
 </resources>

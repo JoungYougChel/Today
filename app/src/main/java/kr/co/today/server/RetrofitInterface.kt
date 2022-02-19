@@ -22,17 +22,18 @@ interface RetrofitInterface {
     ): Single<Document>
 
     //회원가입
-    @GET("getFoodNtrItdntList1")
+    @GET("1471000/FoodNtrIrdntInfoService1/getFoodNtrItdntList1")
     fun tempFoodData(
         @Query("ServiceKey")   ServiceKey: String,
         @Query("desc_kor")   desc_kor: String,
+        @Query("bgn_year")   bgn_year: String,
         @Query("pageNo")   pageNo: String,
         @Query("numOfRows")   numOfRows: String,
         @Query("type")   type: String
     ): Single<Document>
 
     //회원가입
-    @GET("http://openapi.foodsafetykorea.go.kr/api/7aeb97bd33864730b9bd/COOKRCP01/json/1/5")
+    @GET("http://openapi.foodsafetykorea.go.kr/api/7aeb97bd33864730b9bd/COOKRCP01/json/1/10")
     fun tempRecipeData(): Single<Document>
 
 }

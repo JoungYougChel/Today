@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Today</string>
+    <string name="alert_update">업데이트 알림</string>
+
+    <string name="str_login">로그인</string>
+    <string name="str_login_email_underline"><u>이메일로 계속하기</u></string>
+    <string name="str_select_email">이메일 선택</string>
+    <string name="str_join">가입하기</string>
+    <string name="str_ok">확인</string>
+    <string name="str_re_send">메일 재전송</string>
+    <string name="str_cancel">취소</string>
+
+    <string name="str_gmail">\@gmail.com</string>
+    <string name="str_naver">\@naver.com</string>
+    <string name="str_hanmail">\@hanmail.com</string>
+    <string name="str_nate">\@nate.com</string>
+    <string name="str_hotmail">\@hotmail.com</string>
+    <string name="str_input_email">직접입력</string>
+
+    <string name="msg_google_server_error">구글 서버와 통신 중 오류가 발생했습니다.\n잠시 후 시도해주세요.</string>
+    <string name="msg_app_update">새로운 버전이 출시되었습니다.\n플레이스토어로 이동합니다.</string>
+
+    <string name="msg_error_server">서버 통신 중 오류가 발생했습니다.\n잠시 후 다시 시도해주세요.</string>
+    <string name="msg_select_email">이메일을 선택해 주세요👇</string>
+
+    <string name="alert_exit">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
+
+    <string name="label_pw">비밀번호</string>
+    <string name="label_pw_confirm">비밀번호 확인</string>
+
+    <string name="hint_confirm_email">인증코드</string>
 </resources>

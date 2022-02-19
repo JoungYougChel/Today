@@ -13,7 +13,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "kr.co.today"
+        applicationId "kr.co.foodman.aos"
         minSdk 26
         targetSdk 31
         versionCode 1

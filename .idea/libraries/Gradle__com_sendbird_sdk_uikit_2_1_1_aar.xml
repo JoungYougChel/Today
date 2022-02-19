@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sendbird.sdk:uikit:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0f608c6e6a6b8481038de787bd83554f/transformed/jetified-uikit-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0f608c6e6a6b8481038de787bd83554f/transformed/jetified-uikit-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0f608c6e6a6b8481038de787bd83554f/transformed/jetified-uikit-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sendbird.sdk/uikit/2.1.1/b7fa5d9c106a8348e13c6c8aa89ffe23f40b3ceb/uikit-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

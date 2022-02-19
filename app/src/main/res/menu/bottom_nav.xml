@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navInfo"
+        android:enabled="true"
+        android:icon="@drawable/arrow_left_44"
+        android:title="식품정보" />
+
+    <item
+        android:id="@+id/navRecipe"
+        android:title="레시피" />
+
+
+
+</menu>

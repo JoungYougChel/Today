@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: codes.side:andcolorpicker:0.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b46fe6661c3b8f7aba0e6d595042f350/transformed/jetified-andcolorpicker-0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b46fe6661c3b8f7aba0e6d595042f350/transformed/jetified-andcolorpicker-0.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b46fe6661c3b8f7aba0e6d595042f350/transformed/jetified-andcolorpicker-0.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/codes.side/andcolorpicker/0.5.0/5ba8b9f5ac0479b013182a477feee832f887b10d/andcolorpicker-0.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/codes.side/andcolorpicker/0.5.0/9612bf8e1a9583521bbcea558ffeba260c4443c0/andcolorpicker-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

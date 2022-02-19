@@ -16,7 +16,7 @@ object HttpAppClient{
     private const val TIMEOUT_WRITE: Long = 15
     private const val TIMEOUT_READ: Long = 15
 
-    const val SCHEME = "https://"
+    const val SCHEME = "http://"
 
     private var mClient: OkHttpClient
     private lateinit var appRetrofit: Retrofit
